@@ -45,7 +45,8 @@ android {
             javaMaxHeapSize "8g"
         }
         debug {
-            debuggable=false;
+//            debuggable=false;
+            signingConfig signingConfigs.release
         }
     }
     sourceSets {
