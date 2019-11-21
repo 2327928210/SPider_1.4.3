@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\beifei\\Project\\haoke_gps2\\haoke_gps\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ico_car.png",
+        "source": "C:\\beifei\\Project\\haoke_gps2\\haoke_gps\\src\\main\\res\\drawable-xhdpi\\ico_car.png"
+    },
+    {
+        "merged": "C:\\beifei\\Project\\haoke_gps2\\haoke_gps\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ico_car_off.png",
+        "source": "C:\\beifei\\Project\\haoke_gps2\\haoke_gps\\src\\main\\res\\drawable-xhdpi\\ico_car_off.png"
+    },
+    {
+        "merged": "C:\\beifei\\Project\\haoke_gps2\\haoke_gps\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\beifei\\Project\\haoke_gps2\\haoke_gps\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\beifei\\Project\\haoke_gps2\\haoke_gps\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\icon_show_postion.png",
+        "source": "C:\\beifei\\Project\\haoke_gps2\\haoke_gps\\src\\main\\res\\drawable-xhdpi\\icon_show_postion.png"
+    }
+]
